@@ -10,7 +10,7 @@ public class TestingController {
 
     @GetMapping
     public String health() {
-    return "Hello Everyone, Welcome to my jenkins";
+    return "Hello Everyone, Welcome to my updated jenkins";
     }
 
 }
